@@ -6,7 +6,11 @@ namespace DegerVeReferansTipler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            // intidouble,bool... değer tip
+            //diziler,class,abstract class, interface.... referans tip
+
+
 
 
         }
